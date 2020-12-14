@@ -46,7 +46,7 @@ const Form = () => {
             </div>
 
             <div>
-            <input type="submit" value="Submit" />
+            <input type="submit" value="Send" />
             </div>
         </form>
     );
