@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Harry",
+      "Gender": "Male",
+      "Hobby": "Dancing",
+      "Description": "Good guy"
+    },
+    {
+      "name": "Emma Watson",
+      "Gender": "female",
+      "Hobby": "reading",
+      "Description": "Quite an interesting person.",
+      "id": 2
+    },
+    {
+      "name": "Ron",
+      "Gender": "",
+      "Hobby": "singing",
+      "Description": "Quite a paculiar boy",
+      "id": 3
+    }
+  ]
+}
