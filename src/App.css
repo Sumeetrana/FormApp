@@ -31,7 +31,7 @@ input[type="text"]::placeholder {
 input[type="submit"] {
   background-color: #561e9e;
   color: white;
-  padding: 12px 25px;
+  padding: 12px 45px;
   border: none;
   border-radius: 40px;
   cursor: pointer;
